@@ -1,0 +1,278 @@
+2026-03-05 16:04:59 - __main__ - INFO - Initializing 'Where's My Stuff?' application.
+2026-03-05 16:04:59 - controllers.main_controller - DEBUG - MainController initialized.
+2026-03-05 16:04:59 - gui.main_window - DEBUG - MainWindow initialized.
+2026-03-05 16:04:59 - gui.views.all_items_view - DEBUG - AllItemsView initialized successfully.
+2026-03-05 16:04:59 - gui.views.locations_view - DEBUG - LocationsView initialized successfully.
+2026-03-05 16:04:59 - gui.views.search_view - DEBUG - SearchView initialized successfully.
+2026-03-05 16:04:59 - controllers.main_controller - INFO - Triggering data load.
+2026-03-05 16:04:59 - __main__ - INFO - Application loop started.
+2026-03-05 16:04:59 - controllers.main_controller - INFO - Starting background data load.
+2026-03-05 16:05:00 - controllers.main_controller - DEBUG - Loaded 4 items into state.
+2026-03-05 16:05:00 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:05:00 - controllers.main_controller - INFO - Background data load completed successfully.
+2026-03-05 16:05:00 - controllers.main_controller - DEBUG - Loaded 2 locations into state.
+2026-03-05 16:05:00 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:08:59 - __main__ - INFO - Initializing 'Where's My Stuff?' application.
+2026-03-05 16:08:59 - controllers.main_controller - DEBUG - MainController initialized.
+2026-03-05 16:08:59 - gui.main_window - DEBUG - MainWindow initialized.
+2026-03-05 16:08:59 - gui.views.all_items_view - DEBUG - AllItemsView initialized successfully.
+2026-03-05 16:08:59 - gui.views.locations_view - DEBUG - LocationsView initialized successfully.
+2026-03-05 16:08:59 - gui.views.search_view - DEBUG - SearchView initialized successfully.
+2026-03-05 16:09:00 - controllers.main_controller - INFO - Triggering data load.
+2026-03-05 16:09:00 - controllers.main_controller - INFO - Starting background data load.
+2026-03-05 16:09:00 - __main__ - INFO - Application loop started.
+2026-03-05 16:09:01 - controllers.main_controller - DEBUG - Loaded 4 items into state.
+2026-03-05 16:09:01 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:09:01 - controllers.main_controller - INFO - Background data load completed successfully.
+2026-03-05 16:09:01 - controllers.main_controller - DEBUG - Loaded 2 locations into state.
+2026-03-05 16:09:01 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:09:03 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 16:09:05 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:09:10 - gui.main_window - DEBUG - Navigated to: Search
+2026-03-05 16:09:13 - gui.main_window - DEBUG - Navigated to: Dashboard
+2026-03-05 16:09:39 - gui.main_window - DEBUG - Navigated to: Search
+2026-03-05 16:09:40 - gui.main_window - DEBUG - Navigated to: Dashboard
+2026-03-05 16:15:49 - __main__ - INFO - Initializing 'Where's My Stuff?' application.
+2026-03-05 16:15:49 - controllers.main_controller - DEBUG - MainController initialized.
+2026-03-05 16:15:49 - gui.main_window - DEBUG - MainWindow initialized.
+2026-03-05 16:15:49 - gui.views.all_items_view - DEBUG - AllItemsView initialized successfully.
+2026-03-05 16:15:49 - gui.views.locations_view - DEBUG - LocationsView initialized successfully.
+2026-03-05 16:15:49 - gui.views.search_view - DEBUG - SearchView initialized successfully.
+2026-03-05 16:15:49 - controllers.main_controller - INFO - Triggering data load.
+2026-03-05 16:15:49 - controllers.main_controller - INFO - Starting background data load.
+2026-03-05 16:15:49 - __main__ - INFO - Application loop started.
+2026-03-05 16:15:50 - controllers.main_controller - DEBUG - Loaded 4 items into state.
+2026-03-05 16:15:50 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:15:50 - controllers.main_controller - INFO - Background data load completed successfully.
+2026-03-05 16:15:50 - controllers.main_controller - DEBUG - Loaded 2 locations into state.
+2026-03-05 16:15:50 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:15:52 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 16:15:52 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:15:53 - gui.main_window - DEBUG - Navigated to: Search
+2026-03-05 16:15:55 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:15:55 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 16:15:57 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:26:54 - __main__ - INFO - Initializing 'Where's My Stuff?' application.
+2026-03-05 16:26:55 - controllers.main_controller - DEBUG - MainController initialized.
+2026-03-05 16:26:55 - gui.main_window - DEBUG - MainWindow initialized.
+2026-03-05 16:26:55 - gui.views.all_items_view - DEBUG - AllItemsView initialized successfully.
+2026-03-05 16:26:55 - gui.views.locations_view - DEBUG - LocationsView initialized successfully.
+2026-03-05 16:26:55 - gui.views.search_view - DEBUG - SearchView initialized successfully.
+2026-03-05 16:26:55 - controllers.main_controller - INFO - Triggering data load.
+2026-03-05 16:26:55 - controllers.main_controller - INFO - Starting background data load.
+2026-03-05 16:26:55 - __main__ - INFO - Application loop started.
+2026-03-05 16:26:56 - controllers.main_controller - INFO - Background data load completed successfully.
+2026-03-05 16:26:56 - controllers.main_controller - DEBUG - Loaded 4 items into state.
+2026-03-05 16:26:56 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:26:56 - controllers.main_controller - DEBUG - Loaded 2 locations into state.
+2026-03-05 16:26:56 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:28:12 - __main__ - INFO - Initializing 'Where's My Stuff?' application.
+2026-03-05 16:28:12 - controllers.main_controller - DEBUG - MainController initialized.
+2026-03-05 16:28:12 - gui.main_window - DEBUG - MainWindow initialized.
+2026-03-05 16:28:12 - gui.views.all_items_view - DEBUG - AllItemsView initialized successfully.
+2026-03-05 16:28:13 - gui.views.locations_view - DEBUG - LocationsView initialized successfully.
+2026-03-05 16:28:13 - gui.views.search_view - DEBUG - SearchView initialized successfully.
+2026-03-05 16:28:13 - controllers.main_controller - INFO - Triggering data load.
+2026-03-05 16:28:13 - __main__ - INFO - Application loop started.
+2026-03-05 16:28:13 - controllers.main_controller - INFO - Starting background data load.
+2026-03-05 16:28:14 - controllers.main_controller - DEBUG - Loaded 4 items into state.
+2026-03-05 16:28:14 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:28:14 - controllers.main_controller - INFO - Background data load completed successfully.
+2026-03-05 16:28:14 - controllers.main_controller - DEBUG - Loaded 2 locations into state.
+2026-03-05 16:28:14 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:28:20 - gui.main_window - DEBUG - Navigated to: Add Item
+2026-03-05 16:28:34 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 16:28:37 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:28:39 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 16:28:40 - gui.main_window - DEBUG - Navigated to: Search
+2026-03-05 16:28:44 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:28:50 - gui.main_window - DEBUG - Navigated to: Dashboard
+2026-03-05 16:29:40 - gui.main_window - DEBUG - Navigated to: Search
+2026-03-05 16:30:18 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:30:19 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 16:30:20 - gui.main_window - DEBUG - Navigated to: Add Item
+2026-03-05 16:30:20 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 16:30:25 - gui.main_window - DEBUG - Navigated to: Add Item
+2026-03-05 16:30:28 - gui.main_window - DEBUG - Navigated to: Dashboard
+2026-03-05 16:32:58 - gui.main_window - DEBUG - Navigated to: Add Item
+2026-03-05 16:32:59 - gui.main_window - DEBUG - Navigated to: Add Item
+2026-03-05 16:32:59 - gui.main_window - DEBUG - Navigated to: Dashboard
+2026-03-05 16:33:02 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:33:04 - gui.main_window - DEBUG - Navigated to: Search
+2026-03-05 16:33:05 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:33:06 - gui.main_window - DEBUG - Navigated to: Search
+2026-03-05 16:33:07 - gui.main_window - DEBUG - Navigated to: Dashboard
+2026-03-05 16:37:37 - __main__ - INFO - Initializing 'Where's My Stuff?' application.
+2026-03-05 16:37:37 - controllers.main_controller - DEBUG - MainController initialized.
+2026-03-05 16:37:37 - gui.main_window - DEBUG - MainWindow initialized.
+2026-03-05 16:37:37 - gui.views.all_items_view - DEBUG - AllItemsView initialized successfully.
+2026-03-05 16:37:37 - gui.views.locations_view - DEBUG - LocationsView initialized successfully.
+2026-03-05 16:37:37 - gui.views.search_view - DEBUG - SearchView initialized successfully.
+2026-03-05 16:37:37 - controllers.main_controller - INFO - Triggering data load.
+2026-03-05 16:37:37 - __main__ - INFO - Application loop started.
+2026-03-05 16:37:37 - controllers.main_controller - INFO - Starting background data load.
+2026-03-05 16:37:38 - controllers.main_controller - DEBUG - Loaded 4 items into state.
+2026-03-05 16:37:38 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:37:38 - controllers.main_controller - INFO - Background data load completed successfully.
+2026-03-05 16:37:38 - controllers.main_controller - DEBUG - Loaded 2 locations into state.
+2026-03-05 16:37:38 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:40:17 - gui.main_window - DEBUG - Navigated to: Add Item
+2026-03-05 16:40:22 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 16:40:23 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:40:26 - gui.main_window - DEBUG - Navigated to: Search
+2026-03-05 16:40:30 - gui.main_window - DEBUG - Navigated to: Dashboard
+2026-03-05 16:40:32 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:40:32 - gui.main_window - DEBUG - Navigated to: Search
+2026-03-05 16:40:33 - gui.main_window - DEBUG - Navigated to: Dashboard
+2026-03-05 16:43:08 - __main__ - INFO - Initializing 'Where's My Stuff?' application.
+2026-03-05 16:43:09 - controllers.main_controller - DEBUG - MainController initialized.
+2026-03-05 16:43:09 - gui.main_window - DEBUG - MainWindow initialized.
+2026-03-05 16:43:09 - gui.views.all_items_view - DEBUG - AllItemsView initialized successfully.
+2026-03-05 16:43:09 - gui.views.locations_view - DEBUG - LocationsView initialized successfully.
+2026-03-05 16:43:09 - gui.views.search_view - DEBUG - SearchView initialized successfully.
+2026-03-05 16:43:09 - controllers.main_controller - INFO - Triggering data load.
+2026-03-05 16:43:09 - __main__ - INFO - Application loop started.
+2026-03-05 16:43:09 - controllers.main_controller - INFO - Starting background data load.
+2026-03-05 16:43:10 - controllers.main_controller - DEBUG - Loaded 4 items into state.
+2026-03-05 16:43:10 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:43:10 - controllers.main_controller - INFO - Background data load completed successfully.
+2026-03-05 16:43:10 - controllers.main_controller - DEBUG - Loaded 2 locations into state.
+2026-03-05 16:43:10 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:43:13 - gui.main_window - DEBUG - Navigated to: Add Item
+2026-03-05 16:43:14 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:43:14 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 16:43:15 - gui.main_window - DEBUG - Navigated to: Search
+2026-03-05 16:43:16 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:43:23 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 16:44:20 - gui.main_window - DEBUG - Navigated to: Add Item
+2026-03-05 16:44:26 - gui.main_window - DEBUG - Navigated to: Dashboard
+2026-03-05 16:44:28 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 16:44:31 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:44:34 - gui.main_window - DEBUG - Navigated to: Search
+2026-03-05 16:44:37 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 16:44:38 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 16:44:38 - gui.main_window - DEBUG - Navigated to: Add Item
+2026-03-05 16:45:22 - gui.main_window - DEBUG - Navigated to: Dashboard
+2026-03-05 16:46:27 - gui.main_window - DEBUG - Navigated to: Search
+2026-03-05 16:46:37 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:46:48 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 16:47:13 - gui.main_window - DEBUG - Navigated to: Add Item
+2026-03-05 16:47:18 - gui.main_window - DEBUG - Navigated to: Dashboard
+2026-03-05 16:50:42 - __main__ - INFO - Initializing 'Where's My Stuff?' application.
+2026-03-05 16:50:42 - controllers.main_controller - DEBUG - MainController initialized.
+2026-03-05 16:50:42 - gui.main_window - DEBUG - MainWindow initialized.
+2026-03-05 16:50:42 - gui.views.all_items_view - DEBUG - AllItemsView initialized successfully.
+2026-03-05 16:50:42 - gui.views.locations_view - DEBUG - LocationsView initialized successfully.
+2026-03-05 16:50:42 - gui.views.search_view - DEBUG - SearchView initialized successfully.
+2026-03-05 16:50:42 - controllers.main_controller - INFO - Triggering data load.
+2026-03-05 16:50:42 - __main__ - INFO - Application loop started.
+2026-03-05 16:50:42 - controllers.main_controller - INFO - Starting background data load.
+2026-03-05 16:50:43 - controllers.main_controller - DEBUG - Loaded 4 items into state.
+2026-03-05 16:50:43 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:50:43 - controllers.main_controller - INFO - Background data load completed successfully.
+2026-03-05 16:50:43 - controllers.main_controller - DEBUG - Loaded 2 locations into state.
+2026-03-05 16:50:43 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:52:37 - __main__ - INFO - Initializing 'Where's My Stuff?' application.
+2026-03-05 16:52:38 - controllers.main_controller - DEBUG - MainController initialized.
+2026-03-05 16:52:38 - gui.main_window - DEBUG - MainWindow initialized.
+2026-03-05 16:52:38 - gui.views.all_items_view - DEBUG - AllItemsView initialized successfully.
+2026-03-05 16:52:38 - gui.views.locations_view - DEBUG - LocationsView initialized successfully.
+2026-03-05 16:52:38 - gui.views.search_view - DEBUG - SearchView initialized successfully.
+2026-03-05 16:52:38 - controllers.main_controller - INFO - Triggering data load.
+2026-03-05 16:52:38 - controllers.main_controller - INFO - Starting background data load.
+2026-03-05 16:52:38 - __main__ - INFO - Application loop started.
+2026-03-05 16:52:39 - controllers.main_controller - DEBUG - Loaded 4 items into state.
+2026-03-05 16:52:39 - controllers.main_controller - INFO - Background data load completed successfully.
+2026-03-05 16:52:39 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:52:39 - controllers.main_controller - DEBUG - Loaded 2 locations into state.
+2026-03-05 16:52:39 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:52:46 - gui.main_window - DEBUG - Navigated to: Add Item
+2026-03-05 16:52:53 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 16:52:55 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:52:56 - gui.main_window - DEBUG - Navigated to: Dashboard
+2026-03-05 16:53:06 - __main__ - INFO - Initializing 'Where's My Stuff?' application.
+2026-03-05 16:53:06 - controllers.main_controller - DEBUG - MainController initialized.
+2026-03-05 16:53:06 - gui.main_window - DEBUG - MainWindow initialized.
+2026-03-05 16:53:06 - gui.views.all_items_view - DEBUG - AllItemsView initialized successfully.
+2026-03-05 16:53:06 - gui.views.locations_view - DEBUG - LocationsView initialized successfully.
+2026-03-05 16:53:06 - gui.views.search_view - DEBUG - SearchView initialized successfully.
+2026-03-05 16:53:06 - controllers.main_controller - INFO - Triggering data load.
+2026-03-05 16:53:06 - __main__ - INFO - Application loop started.
+2026-03-05 16:53:06 - controllers.main_controller - INFO - Starting background data load.
+2026-03-05 16:53:07 - controllers.main_controller - DEBUG - Loaded 4 items into state.
+2026-03-05 16:53:07 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:53:07 - controllers.main_controller - INFO - Background data load completed successfully.
+2026-03-05 16:53:07 - controllers.main_controller - DEBUG - Loaded 2 locations into state.
+2026-03-05 16:53:07 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:53:08 - gui.main_window - DEBUG - Navigated to: Add Item
+2026-03-05 16:53:09 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 16:53:12 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:53:13 - gui.main_window - DEBUG - Navigated to: Search
+2026-03-05 16:53:13 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:53:14 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 16:53:17 - gui.main_window - DEBUG - Navigated to: Add Item
+2026-03-05 16:53:17 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 16:53:18 - gui.main_window - DEBUG - Navigated to: Add Item
+2026-03-05 16:53:19 - gui.main_window - DEBUG - Navigated to: Dashboard
+2026-03-05 16:53:20 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 16:53:20 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:53:21 - gui.main_window - DEBUG - Navigated to: Search
+2026-03-05 16:53:22 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:53:23 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 16:54:31 - __main__ - INFO - Initializing 'Where's My Stuff?' application.
+2026-03-05 16:54:31 - controllers.main_controller - DEBUG - MainController initialized.
+2026-03-05 16:54:31 - gui.main_window - DEBUG - MainWindow initialized.
+2026-03-05 16:54:31 - gui.views.all_items_view - DEBUG - AllItemsView initialized successfully.
+2026-03-05 16:54:31 - gui.views.locations_view - DEBUG - LocationsView initialized successfully.
+2026-03-05 16:54:31 - gui.views.search_view - DEBUG - SearchView initialized successfully.
+2026-03-05 16:54:32 - controllers.main_controller - INFO - Triggering data load.
+2026-03-05 16:54:32 - __main__ - INFO - Application loop started.
+2026-03-05 16:54:32 - controllers.main_controller - INFO - Starting background data load.
+2026-03-05 16:54:33 - controllers.main_controller - DEBUG - Loaded 4 items into state.
+2026-03-05 16:54:33 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:54:33 - controllers.main_controller - INFO - Background data load completed successfully.
+2026-03-05 16:54:33 - controllers.main_controller - DEBUG - Loaded 2 locations into state.
+2026-03-05 16:54:33 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 16:54:33 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:54:33 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 16:54:48 - gui.main_window - DEBUG - Navigated to: Add Item
+2026-03-05 16:54:59 - gui.main_window - DEBUG - Navigated to: Dashboard
+2026-03-05 16:59:07 - gui.main_window - DEBUG - Navigated to: Add Item
+2026-03-05 16:59:57 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 16:59:59 - gui.main_window - DEBUG - Navigated to: Search
+2026-03-05 17:00:04 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 17:00:04 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 17:00:05 - gui.main_window - DEBUG - Navigated to: Add Item
+2026-03-05 17:00:06 - gui.main_window - DEBUG - Navigated to: Dashboard
+2026-03-05 17:02:11 - __main__ - INFO - Initializing 'Where's My Stuff?' application.
+2026-03-05 17:02:11 - controllers.main_controller - DEBUG - MainController initialized.
+2026-03-05 17:02:11 - gui.main_window - DEBUG - MainWindow initialized.
+2026-03-05 17:02:11 - gui.views.all_items_view - DEBUG - AllItemsView initialized successfully.
+2026-03-05 17:02:11 - gui.views.locations_view - DEBUG - LocationsView initialized successfully.
+2026-03-05 17:02:12 - gui.views.search_view - DEBUG - SearchView initialized successfully.
+2026-03-05 17:02:12 - controllers.main_controller - INFO - Triggering data load.
+2026-03-05 17:02:12 - __main__ - INFO - Application loop started.
+2026-03-05 17:02:12 - controllers.main_controller - INFO - Starting background data load.
+2026-03-05 17:02:13 - controllers.main_controller - DEBUG - Loaded 4 items into state.
+2026-03-05 17:02:13 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 17:02:13 - controllers.main_controller - INFO - Background data load completed successfully.
+2026-03-05 17:02:13 - controllers.main_controller - DEBUG - Loaded 2 locations into state.
+2026-03-05 17:02:13 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 17:02:50 - __main__ - INFO - Initializing 'Where's My Stuff?' application.
+2026-03-05 17:02:50 - controllers.main_controller - DEBUG - MainController initialized.
+2026-03-05 17:02:50 - gui.main_window - DEBUG - MainWindow initialized.
+2026-03-05 17:02:50 - gui.views.all_items_view - DEBUG - AllItemsView initialized successfully.
+2026-03-05 17:02:50 - gui.views.locations_view - DEBUG - LocationsView initialized successfully.
+2026-03-05 17:02:50 - gui.views.search_view - DEBUG - SearchView initialized successfully.
+2026-03-05 17:02:50 - controllers.main_controller - INFO - Triggering data load.
+2026-03-05 17:02:50 - __main__ - INFO - Application loop started.
+2026-03-05 17:02:50 - controllers.main_controller - INFO - Starting background data load.
+2026-03-05 17:02:51 - controllers.main_controller - DEBUG - Loaded 4 items into state.
+2026-03-05 17:02:51 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 17:02:51 - controllers.main_controller - INFO - Background data load completed successfully.
+2026-03-05 17:02:51 - controllers.main_controller - DEBUG - Loaded 2 locations into state.
+2026-03-05 17:02:51 - gui.views.dashboard_view - DEBUG - DashboardView repainting UI based on new controller state.
+2026-03-05 17:02:57 - gui.main_window - DEBUG - Navigated to: Add Item
+2026-03-05 17:02:58 - gui.main_window - DEBUG - Navigated to: Locations
+2026-03-05 17:02:58 - gui.main_window - DEBUG - Navigated to: All Items
+2026-03-05 17:02:59 - gui.main_window - DEBUG - Navigated to: Dashboard

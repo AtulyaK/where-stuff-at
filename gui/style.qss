@@ -1,0 +1,226 @@
+/* Main Window and globals */
+* {
+    font-family: 'Inter', 'SF Pro Display', sans-serif;
+    color: #e2e8f0; /* Light text for dark mode */
+}
+
+QMainWindow {
+    background-color: #0d131c; /* Even darker than content area for depth */
+}
+
+/* Sidebar */
+#Sidebar {
+    background-color: #0f1621;
+    border-right: 1px solid #1e293b;
+    max-width: 256px;
+    min-width: 256px;
+}
+
+#SidebarAppTitle {
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 24px 16px;
+}
+
+/* Sidebar Navigation Items */
+#SidebarButton {
+    text-align: left;
+    padding: 10px 16px;
+    height: 40px;
+    border: none;
+    background-color: transparent;
+    border-radius: 8px;
+    margin: 4px 12px;
+    font-size: 14px;
+    color: #94a3b8;
+}
+
+#SidebarButton:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+    color: #e2e8f0;
+}
+
+#SidebarButton[active="true"] {
+    background-color: rgba(59, 130, 246, 0.15); /* Soft blue glow */
+    color: #3b82f6;
+    font-weight: 500;
+}
+
+/* Main Content Area Container */
+#MainContent {
+    background-color: #121b28; /* The requested deep slate-gray */
+}
+
+/* Header Area */
+#HeaderArea {
+    background-color: transparent;
+    padding: 24px 32px 16px 32px;
+}
+
+#HeaderTitle {
+    font-size: 28px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+/* Cards (Glassmorphism effect) */
+*[class="Card"] {
+    background-color: rgba(255, 255, 255, 0.03);
+    border: 1px solid #1e293b;
+    border-radius: 12px;
+}
+*[class="Card"]:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+    border: 1px solid #2d3748;
+}
+
+/* Base Inputs */
+QLineEdit, QComboBox, QTextEdit {
+    background-color: #ffffff; /* Crisp white for text inputs */
+    border: 1px solid #1e293b;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 14px;
+    color: #020617; /* Dark text for readability */
+}
+QLineEdit:focus, QComboBox:focus, QTextEdit:focus {
+    border: 2px solid #3b82f6;
+    background-color: #ffffff;
+}
+QComboBox::drop-down {
+    border: none;
+}
+QComboBox QAbstractItemView {
+    background-color: #f8fafc;
+    color: #020617;
+    border: 1px solid #cbd5e1;
+    selection-background-color: #3b82f6;
+}
+
+/* Stats Card specific */
+#StatsCardTitle {
+    color: #94a3b8;
+    font-size: 13px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+#StatsCardValue {
+    font-size: 28px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-top: 4px;
+}
+
+/* Buttons */
+QPushButton#PrimaryButton {
+    background-color: #3b82f6;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: 600;
+}
+QPushButton#PrimaryButton:hover {
+    background-color: #2563eb;
+}
+QPushButton#PrimaryButton:disabled {
+    background-color: #1e293b;
+    color: #475569;
+}
+
+QPushButton#OutlineButton {
+    background-color: transparent;
+    color: #e2e8f0;
+    border: 1px solid #2d3748;
+    border-radius: 8px;
+    padding: 8px 16px;
+    font-size: 14px;
+    font-weight: 500;
+}
+QPushButton#OutlineButton:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+QPushButton#DestructiveButton {
+    background-color: #ef4444;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 16px;
+    font-size: 14px;
+    font-weight: 500;
+}
+QPushButton#DestructiveButton:hover {
+    background-color: #dc2626;
+}
+
+/* Text Overrides */
+QLabel.TextMuted {
+    color: #94a3b8;
+    font-size: 13px;
+}
+QLabel.TextCardTitle {
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+/* Scrollbars */
+QScrollBar:vertical {
+    border: none;
+    background: transparent;
+    width: 8px;
+    margin: 0px 0px 0px 0px;
+}
+QScrollBar::handle:vertical {
+    background: #2d3748;
+    min-height: 20px;
+    border-radius: 4px;
+}
+QScrollBar::handle:vertical:hover {
+    background: #4a5568;
+}
+QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical {
+    height: 0px;
+}
+QScrollBar:horizontal {
+    border: none;
+    background: transparent;
+    height: 8px;
+    margin: 0px 0px 0px 0px;
+}
+QScrollBar::handle:horizontal {
+    background: #2d3748;
+    min-width: 20px;
+    border-radius: 4px;
+}
+QScrollBar::add-line:horizontal, QScrollBar::sub-line:horizontal {
+    width: 0px;
+}
+
+/* Detail Panel / Table */
+QTableWidget {
+    background-color: transparent;
+    border: none;
+    color: #e2e8f0;
+    gridline-color: #1e293b;
+}
+QHeaderView::section {
+    background-color: rgba(255, 255, 255, 0.03);
+    color: #94a3b8;
+    padding: 8px;
+    border: none;
+    border-bottom: 1px solid #1e293b;
+    font-weight: 600;
+    font-size: 12px;
+}
+QTableWidget::item {
+    padding: 12px 8px;
+    border-bottom: 1px solid #1e293b;
+}
+QTableWidget::item:selected {
+    background-color: rgba(59, 130, 246, 0.1);
+}
